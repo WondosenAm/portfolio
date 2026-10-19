@@ -1,0 +1,3 @@
+# Keep the source CV (it contains private placeholders and contact details) out of the public repo.
+*.docx
+.DS_Store
